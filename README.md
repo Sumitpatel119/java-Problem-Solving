@@ -1,2 +1,3 @@
 # java-Problem-Solving
 java hackerrank  Problem Solving (dsa) codes ...
+solved on java 7 and java 8
